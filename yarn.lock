@@ -6839,11 +6839,11 @@ kind-of@^6.0.2, kind-of@^6.0.3:
   resolved "https://registry.npmjs.org/kind-of/-/kind-of-6.0.3.tgz"
   integrity sha512-dcS1ul+9tmeD95T+x28/ehLgd9mENa3LsvDTtzm3vyBEO7RPptvAD+t44WVXaUjTBRcrpFeFlC8WCruUR456hw==
 
-kitsu-core@^10.1.2, "kitsu-core@file:C:\\HESED\\wopian\\kitsu\\packages\\kitsu-core":
+kitsu-core@^10.1.2, "kitsu-core@file:C:\\HESED\\kitsu\\packages\\kitsu-core":
   version "10.1.2"
   resolved "file:packages/kitsu-core"
 
-"kitsu@file:C:\\HESED\\wopian\\kitsu\\packages\\kitsu":
+"kitsu@file:C:\\HESED\\kitsu\\packages\\kitsu":
   version "10.1.2"
   resolved "file:packages/kitsu"
   dependencies:
