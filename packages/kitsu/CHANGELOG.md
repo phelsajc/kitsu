@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [10.1.4](https://github.com/wopian/kitsu/compare/v10.1.3...v10.1.4) (2023-12-19)
+
+
+### Reverts
+
+* Revert "chore(release): update documentation" ([41f50d2](https://github.com/wopian/kitsu/commit/41f50d2c0452101f1aed32a522379618c1bc80e9))
+* Revert "chore(release): publish 10.1.3" ([9b70bb4](https://github.com/wopian/kitsu/commit/9b70bb43d1181efc459802b81fe817bf677816c6))
+* Revert "chore(release): update documentation" ([76db60d](https://github.com/wopian/kitsu/commit/76db60d24b439beacb5bd3967badaec49d5a939c))
+* Revert "chore(release): update documentation" ([ee84998](https://github.com/wopian/kitsu/commit/ee84998bc3a51ca056a2e9d9fb12194963b4891b))
+* Revert "chore(release): update documentation" ([8ad4db7](https://github.com/wopian/kitsu/commit/8ad4db78123b6db83ce54f1a7d1b6cac884524c6))
+* Revert "chore(release): publish 10.1.3" ([50fef5d](https://github.com/wopian/kitsu/commit/50fef5da305cb7d1996dcc17c03793afd59d70d9))
+
+
+
+
+
 
 
 **Note:** Version bump only for package kitsu
